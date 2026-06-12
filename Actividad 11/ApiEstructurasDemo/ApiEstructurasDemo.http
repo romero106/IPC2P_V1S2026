@@ -1,0 +1,16 @@
+@ApiEstructurasDemo_HostAddress = http://localhost:5068
+
+GET {{ApiEstructurasDemo_HostAddress}}/api/nodos
+Accept: application/json
+
+###
+
+POST {{ApiEstructurasDemo_HostAddress}}/api/nodos
+Content-Type: application/json
+
+{
+  "id": 15,
+  "valor": "Nuevo Nodo Derecho"
+}
+
+###
