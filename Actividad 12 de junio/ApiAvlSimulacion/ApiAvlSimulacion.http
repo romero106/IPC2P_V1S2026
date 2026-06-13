@@ -1,0 +1,14 @@
+@ApiAvlSimulacion_HostAddress = http://localhost:5219
+
+GET {{ApiAvlSimulacion_HostAddress}}/api/arbol
+Accept: application/json
+
+###
+
+POST {{ApiAvlSimulacion_HostAddress}}/api/arbol/insertar
+Content-Type: application/json
+
+{
+  "id": 20,
+  "etiqueta": "Nieto Derecho"
+}
