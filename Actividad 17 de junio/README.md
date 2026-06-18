@@ -1,4 +1,4 @@
-# Actividad 12 de junio de 2026
+# Actividad 17 de junio de 2026
 ## Arquitectura Multi-Nivel (N-Tier) y Patrón Lógico de Software (MVC) en .NET
 
 ## Parte 1: Fundamentacion teorica y analisis critico
