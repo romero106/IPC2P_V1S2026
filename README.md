@@ -2,6 +2,10 @@
 
 ## Facultad de Ingeniería
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### 📚 Introducción a la Programación y Computación 2
 
 | **Ítem**        | **Detalle**                     |
@@ -14,13 +18,19 @@
 | **Auxiliar**    | Fernando Jose Vicente Velasquez |
 
 
----
+</td>
+
+<td valign="top" width="50%">
 
 ### 👤 Estudiante
 
 | **Carné** | **Nombre Completo**                |
 | --------- | ---------------------------------- |
 | 202504020 | Patricio Manuel Romero Castellanos |
+
+</td>
+</tr>
+</table>
 
 ---
 
