@@ -23,20 +23,50 @@
 </tr>
 </table>
 
+<table align="center">
+<tr>
+<td align="left">
+
 ### 📚 Introducción a la Programación y Computación 2
 
-<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Ítem</th>
+      <th>Detalle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Código</strong></td>
+      <td>0771</td>
+    </tr>
+    <tr>
+      <td><strong>Créditos</strong></td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td><strong>Sección</strong></td>
+      <td>P</td>
+    </tr>
+    <tr>
+      <td><strong>Período</strong></td>
+      <td>Vacaciones Primer Semestre 2026</td>
+    </tr>
+    <tr>
+      <td><strong>Catedrático</strong></td>
+      <td>Jaime Francisco Yuman Ramirez</td>
+    </tr>
+    <tr>
+      <td><strong>Auxiliar</strong></td>
+      <td>Fernando Jose Vicente Velasquez</td>
+    </tr>
+  </tbody>
+</table>
 
-| **Ítem**        | **Detalle**                     |
-| --------------- | ------------------------------- |
-| **Código**      | 0771                            |
-| **Créditos**    | 6                               |
-| **Sección**     | P                               |
-| **Período**     | Vacaciones Primer Semestre 2026 |
-| **Catedrático** | Jaime Francisco Yuman Ramirez   |
-| **Auxiliar**    | Fernando Jose Vicente Velasquez |
-
-</div>
+</td>
+</tr>
+</table>
 
 ## ℹ️ Descripción
 
