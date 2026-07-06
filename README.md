@@ -19,14 +19,6 @@
   </tr>
 </table>
 
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<td align="left">
-
 ### 📚 Introducción a la Programación y Computación 2
 
 <table>
