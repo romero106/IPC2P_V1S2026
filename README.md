@@ -4,6 +4,12 @@
 
 <div align="center">
 
+### 👤 Estudiante
+
+| **Carné** | **Nombre Completo**                |
+| --------- | ---------------------------------- |
+| 202504020 | Patricio Manuel Romero Castellanos |
+
 ### 📚 Introducción a la Programación y Computación 2
 
 | **Ítem**        | **Detalle**                     |
@@ -14,12 +20,6 @@
 | **Período**     | Vacaciones Primer Semestre 2026 |
 | **Catedrático** | Jaime Francisco Yuman Ramirez   |
 | **Auxiliar**    | Fernando Jose Vicente Velasquez |
-
-### 👤 Estudiante
-
-| **Carné** | **Nombre Completo**                |
-| --------- | ---------------------------------- |
-| 202504020 | Patricio Manuel Romero Castellanos |
 
 </div>
 
