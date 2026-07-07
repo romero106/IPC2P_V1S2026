@@ -5,24 +5,6 @@
 <table align="center">
   <thead>
     <tr>
-      <th colspan="2">👤 Estudiante</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Carné</strong></td>
-      <td>202504020</td>
-    </tr>
-    <tr>
-      <td><strong>Nombre Completo</strong></td>
-      <td>Patricio Manuel Romero Castellanos</td>
-    </tr>
-  </tbody>
-</table>
-
-<table align="center">
-  <thead>
-    <tr>
       <th colspan="2">📚 Introducción a la Programación y Computación 2</th>
     </tr>
   </thead>
@@ -53,6 +35,25 @@
     </tr>
   </tbody>
 </table>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="2">👤 Estudiante</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Carné</strong></td>
+      <td>202504020</td>
+    </tr>
+    <tr>
+      <td><strong>Nombre Completo</strong></td>
+      <td>Patricio Manuel Romero Castellanos</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## ℹ️ Descripción
 
